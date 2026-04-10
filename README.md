@@ -1,5 +1,5 @@
 **OSPF router simulator** written in C, featuring SPF routing, multi area support, dynamic topology changes, and a CLI.  
-This is built to behave like a real routing engine while staying small, fast, and easy to understand.
+This is built to behave like a real routing engine while staying small, fast and easy to mess around with.
 
 ### Core Routing Engine
 - Full **Longest Prefix Match (LPM)** lookup logic  
